@@ -32,10 +32,10 @@ This repository is a comprehensive collection of Python advanced concepts, best 
 ```
 python-advanced-viz/
 ├── 01-Advanced-Python-Concepts/
-│   ├── 01-OOP/
-│   ├── 02-Decorators/
+│   ├── 01-Numpy/
+│   ├── 02-Pandas/
 │   ├── 03-Generators/
-│   └── 04-Concurrency/
+│   └── 04-OOPS/
 ├── 02-Data-Visualization/
 │   ├── 01-Matplotlib/
 │   ├── 02-Seaborn/
@@ -52,7 +52,7 @@ python-advanced-viz/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-advanced-viz.git
+   git clone https://github.com/chmohit91/python-advanced-viz.git
    ```
 
 2. Install the required dependencies:
